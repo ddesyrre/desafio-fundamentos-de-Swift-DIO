@@ -15,4 +15,4 @@ Instruções do desafio:
 
 • Escrever um print fazendo interpolação com a constante e variável, defindo um valor default para a variável opcional como "Wozniak"
 
-• Fazer um Optional Binding na variável e dento da condição fazer outro print com interpolação entre a constante e variável que foi desembrulhada.
+• Fazer um Optional Binding na variável e dentro da condição fazer outro print com interpolação entre a constante e variável que foi desembrulhada.
